@@ -1,0 +1,24 @@
+{
+  "name": "lost-weekend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixhaeberle/lost-weekend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/felixhaeberle/lost-weekend/issues"
+  },
+  "homepage": "https://github.com/felixhaeberle/lost-weekend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "github-contributions-counter": "^2.1.3"
+  }
+}
